@@ -35,7 +35,7 @@ public class AOWQualifierTest {
     @Test
     @DisplayName("1950-12-1 geboren voor de datum van 2017-1-1")
     public void shouldQualify(){
-        aowQualifier = new AOWQualifier(of(2016,1,1));
+        aowQualifier = new AOWQualifier(of(2017,1,1));
         assertTrue(aowQualifier.doesDateQualify(of(1950,12,1)));
     }
 
