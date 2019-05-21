@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: nl.hu.taxcalculator.AOWQualifierTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.015 s - in nl.hu.taxcalculator.AOWQualifierTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.016 s - in nl.hu.taxcalculator.AOWQualifierTest
